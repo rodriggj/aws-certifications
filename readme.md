@@ -7,4 +7,6 @@
 </p>
 
 [AWS Certifications Homepage](https://aws.amazon.com/certification/?th=sec&sec=certified)
+
 ----
+
