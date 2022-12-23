@@ -5,6 +5,16 @@
 - [ ] 2. Create Management AWS Account 
 -  [ ] [3. Configure Account and Setup Billing Alarms](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#3-configure-account-and-setup-billing-alarms)
 - [ ] [4. Install Tools (AWS CLI & VS Code)](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#4-install-tools-aws-cli--vs-code)
+- [ ] [5. Create User, Group, and Configure CLI]() 
+- [ ] [6. Overview of AWS Organizations]()
+- [ ] [7. Overview of AWS Account Setup]()
+- [ ] [8. Create an AWS Organization and Add Account]()
+- [ ] [9. Service Control Policies (SCPs)]()
+- [ ] [10. SCP Strategies and Inheritance]()
+- [ ] [11. Create Development Account]() 
+- [ ] [12. Test SCP Inheritance]()
+- [ ] [13. AWS Control Tower]() 
+- [ ] [14. Create a Landing Zone]()
 
 --------
 
