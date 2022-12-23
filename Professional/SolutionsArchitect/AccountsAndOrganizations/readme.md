@@ -34,7 +34,8 @@
 - [ ] Identity and Access Management (IAM)
 - [ ] CloudWatch
 
-<p style="font-family: times, serif; font-size:11pt; font-style:italic">[Back to Content](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#content)</p>
+[Back to Content](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#content)
+
 -------
 
 ### 4. Install Tools (AWS CLI & VS Code) 
