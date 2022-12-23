@@ -1,6 +1,12 @@
 # Accounts & Organizations
 
-## Content 
+## Content
+- [ ] 1. Free Tier vs. Sandbox
+- [ ] 2. Create Management AWS Account 
+-  [ ] [3. Configure Account and Setup Billing Alarms](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#3-configure-account-and-setup-billing-alarms)
+- [ ] [4. Install Tools (AWS CLI & VS Code)](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#4-install-tools-aws-cli--vs-code)
+
+## Procedures 
 ### 1. Free Tier vs. Sandbox
 
 ### 2. Create Management AWS Account 
