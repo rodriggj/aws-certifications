@@ -52,6 +52,16 @@ Follow the instructions based on the operating system of the host system you are
 
 ### 5. Create User, Group, and Configure CLI 
 
+#### Steps
+
+#### AWS Services Used
+
+- [ ] Identity and Access Management (IAM)
+
+[Back to Content](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#content)
+
+------
+
 ### 6. Overview of AWS Organizations
 
 ### 7. Overview of AWS Account Setup
