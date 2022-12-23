@@ -47,6 +47,10 @@
 
 ### 4. Install Tools (AWS CLI & VS Code) 
 
+#### Objectives
+- [ ] Install AWS CLI
+- [ ] Install Visual Studio Code IDE
+
 #### Steps
 1. Go here for instructions on installing [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
 2. Go here for instructions on installing [VS Code IDE](https://code.visualstudio.com/)
