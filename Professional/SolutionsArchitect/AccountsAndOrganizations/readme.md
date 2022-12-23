@@ -9,7 +9,7 @@
 - [ ] [6. Overview of AWS Organizations](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#6-overview-of-aws-organizations)
 - [ ] [7. Overview of AWS Account Setup](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#7-overview-of-aws-account-setup)
 - [ ] [8. Create an AWS Organization and Add Account](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#8-create-an-aws-organization-and-add-account)
-- [ ] [9. Service Control Policies (SCPs)](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#9-service-control-policies-scps()
+- [ ] [9. Service Control Policies (SCPs)](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#9-service-control-policies-scps)
 - [ ] [10. SCP Strategies and Inheritance](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#10-scp-strategies-and-inheritance)
 - [ ] [11. Create Development Account](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#11-create-development-account) 
 - [ ] [12. Test SCP Inheritance](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#12-test-scp-inheritance)
