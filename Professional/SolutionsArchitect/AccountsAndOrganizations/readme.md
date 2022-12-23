@@ -7,6 +7,26 @@
 
 ### 3. Configure Account and Setup Billing Alarms
 
+#### Objectives 
+- [ ] Modify our _Sign In Alias_
+- [ ] Configured our _Billing Settings_
+- [ ] Configured a _Billing Alarm_
+
+#### Steps
+1. Login to AWS Console, and click navigate to the _IAM_ service.
+2. Customize the _Sign-In URL_ 
+3. Nav to _My Account_, and select _Billing Preferences_. Here you can enable _Billing Preferences_. Save your preferences, and navigate to _Cloud Watch_.
+4. In _Cloud Watch_ service you can change the region. Here change the region to _N.Virginia_, this is the region that all billing information is derived from. You will have to select this location to create a _Billing Notification_ on _Cloud Watch_.
+
+##### References
+- [ ] N/A
+
+#### AWS Services Used
+- [ ] Identity and Access Management (IAM)
+- [ ] CloudWatch
+
+-------
+
 ### 4. Install Tools (AWS CLI & VS Code) 
 
 ### 5. Create User, Group, and Configure CLI 
