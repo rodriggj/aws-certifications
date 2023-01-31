@@ -7,15 +7,14 @@
 - [ ] [4. Install Tools (AWS CLI & VS Code)](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#4-install-tools-aws-cli--vs-code)
 - [ ] [5. Create User, Group, and Configure CLI](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#5-create-user-group-and-configure-cli) 
 - [ ] [6. Overview of AWS Organizations](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#6-overview-of-aws-organizations)
-- [ ] [7. Overview of AWS Account Setup](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#7-overview-of-aws-account-setup)
-- [ ] [8. Create an AWS Organization and Add Account](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#8-create-an-aws-organization-and-add-account)
-- [ ] [9. Service Control Policies (SCPs)](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#9-service-control-policies-scps)
-- [ ] [10. SCP Strategies and Inheritance](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#10-scp-strategies-and-inheritance)
-- [ ] [11. Create Development Account](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#11-create-development-account) 
-- [ ] [12. Test SCP Inheritance](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#12-test-scp-inheritance)
++ [ ] [7. Overview of AWS Account Setup](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#7-overview-of-aws-account-setup)
++ [ ] [8. Create an AWS Organization and Add Account](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#8-create-an-aws-organization-and-add-account)
++ [ ] [9. Service Control Policies (SCPs)](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#9-service-control-policies-scps)
++ [ ] [10. SCP Strategies and Inheritance](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#10-scp-strategies-and-inheritance)
++ [ ] [11. Create Development Account](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#11-create-development-account) 
++ [ ] [12. Test SCP Inheritance](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#12-test-scp-inheritance)
 - [ ] [13. AWS Control Tower](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#13-aws-control-tower) 
 - [ ] [14. Create a Landing Zone](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#14-create-a-landing-zone)
-
 --------
 
 ## Procedures
@@ -42,7 +41,6 @@
 - [ ] CloudWatch
 
 [Back to Content](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#content)
-
 -------
 
 ### 4. Install Tools (AWS CLI & VS Code) 
@@ -61,7 +59,6 @@ Follow the instructions based on the operating system of the host system you are
 - [ ] AWS Command Line Interface (CLI)
 
 [Back to Content](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#content)
-
 ------
 
 ### 5. Create User, Group, and Configure CLI 
@@ -73,7 +70,6 @@ Follow the instructions based on the operating system of the host system you are
 - [ ] Identity and Access Management (IAM)
 
 [Back to Content](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#content)
-
 ------
 
 ### 6. Overview of AWS Organizations
@@ -82,25 +78,27 @@ Follow the instructions based on the operating system of the host system you are
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/8760590/215871061-4726dc1d-33f5-4ec9-8f27-ce25799254fa.png">
 </p>
 
----------
-
 #### Overview of AWS Account Setup
 
 <p align="center">
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/8760590/215871739-8b510889-c74f-478a-a5e0-e875ee6f87a3.png">
 </p>
 
-### 8. Create an AWS Organization and Add Account
+##### Create an AWS Organization and Add Account
 
 1. 
 
-### 9. Service Control Policies (SCPs)
+##### Service Control Policies (SCPs)
 
-### 10. SCP Strategies and Inheritance
+##### SCP Strategies and Inheritance
 
-### 11. Create Development Account 
+##### Create Development Account 
 
-### 12. Test SCP Inheritance
+###### Test SCP Inheritance
+
+
+[Back to Content](https://github.com/rodriggj/aws-certifications/tree/master/Professional/SolutionsArchitect/AccountsAndOrganizations#content)
+--------
 
 ### 13. AWS Control Tower 
 
