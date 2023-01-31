@@ -86,6 +86,10 @@ Follow the instructions based on the operating system of the host system you are
 
 #### Overview of AWS Account Setup
 
+<p align="center">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/8760590/215871739-8b510889-c74f-478a-a5e0-e875ee6f87a3.png">
+</p>
+
 ### 8. Create an AWS Organization and Add Account
 
 1. 
