@@ -78,9 +78,17 @@ Follow the instructions based on the operating system of the host system you are
 
 ### 6. Overview of AWS Organizations
 
-### 7. Overview of AWS Account Setup
+<p align="center">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/8760590/215871061-4726dc1d-33f5-4ec9-8f27-ce25799254fa.png">
+</p>
+
+---------
+
+#### Overview of AWS Account Setup
 
 ### 8. Create an AWS Organization and Add Account
+
+1. 
 
 ### 9. Service Control Policies (SCPs)
 
