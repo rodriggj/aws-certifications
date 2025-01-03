@@ -1,1 +1,0 @@
-# Software Developement Lifecycle (SDLC)
